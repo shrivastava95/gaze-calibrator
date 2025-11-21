@@ -1,3 +1,6 @@
+# What is this data?
+The data is sourced from [The DIEM Project](https://thediemproject.wordpress.com/videos-and%c2%a0data/)
+
 # Which files the current script actually needs
 
 Only **two things** are required:
